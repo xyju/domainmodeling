@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3ABD5B961BCF87B6007E6E3A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABD5B951BCF87B6007E6E3A /* main.swift */; };
+		3A0837791BD09CAC00F15484 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABD5B951BCF87B6007E6E3A /* main.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3ABD5B961BCF87B6007E6E3A /* main.swift in Sources */,
+				3A0837791BD09CAC00F15484 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,6 +236,7 @@
 				3ABD5B9B1BCF87B6007E6E3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
